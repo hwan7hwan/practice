@@ -23,6 +23,7 @@ public class Hello {
         }
 
         System.out.println("브랜치를 만들었다 b1 ");
+        System.out.println("b1 merge 후 master 수정 commit");
 
     }
 }
