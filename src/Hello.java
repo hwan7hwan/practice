@@ -21,7 +21,6 @@ public class Hello {
             String showMe =(String) getList.next();
             System.out.println(showMe);
         }
-        System.out.println("4th commit");
 
     }
 }
