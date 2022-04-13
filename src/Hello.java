@@ -22,5 +22,7 @@ public class Hello {
             System.out.println(showMe);
         }
 
+        System.out.println("브랜치를 만들었다 b1 ");
+
     }
 }
